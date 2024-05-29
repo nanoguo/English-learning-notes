@@ -1,6 +1,7 @@
 - [Unit 1 & 2 **am/is/are and questions**](#unit-1--2-amisare-and-questions)
   - [Grammar](#grammar)
   - [Words & Phrase](#words--phrase)
+  - [Sentences](#sentences)
 - [Unit 3 **I am doing** *(present continuous)*](#unit-3-i-am-doing-present-continuous)
   - [Grammar](#grammar-1)
   - [Words](#words)
@@ -74,7 +75,34 @@ How is   = How's
 ## Words & Phrase
 
 - woof n. 低吠声 vi. 发出低吠声
+- journalist n. 新闻从业者
 - on time adv. 准时
+
+## Sentences
+- My name is Lisa.
+- I'm 22.
+- I'm American. I'm come from Chicago.
+- I'm a student.
+- My father is a doctor and my mother is a journalist.
+- I'm not married.
+- My favourite colour is blue.
+- My favourite sports are football and swimming.
+- I'm interested in art.
+- I'm cold, can you close the window, please?
+- I'm 32 years old. My sister is 29.
+- My brother is very tall. He's a policeman.
+- John is afraid of dogs.
+- It's 10 o'clock. You're late again.
+- Ann and I are good friends.
+- Your keys are on the table.
+- I'm tired but I'm not hungry.
+- Tom isn't interested in politics. He's interested in music.
+- Jane isn't at home at the monment. She's at work.
+- Those people aren't English. They're Australian.
+- It's sunny today but it isn't warm.
+- Thank you. That's very kind of you.
+- Look! There's Chris.
+- "Here's your key." "Thank you."
 
 # Unit 3 **I am doing** *(present continuous)*
 
